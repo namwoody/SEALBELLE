@@ -19,13 +19,13 @@
 define('DB_NAME', 'seabelle');
 
 /** MySQL database username */
-define('DB_USER', 'seabelle');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'P@!NatVSP@123');
+define('DB_PASSWORD', 'D7Hpk2lRsx');
 
 /** MySQL hostname */
-define('DB_HOST', 'seabelle.db.10637351.hostedresource.com');
+define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
