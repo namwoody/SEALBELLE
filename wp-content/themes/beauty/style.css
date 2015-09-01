@@ -1,0 +1,24 @@
+/*
+Theme Name: Starkers HTML5
+Theme URI: http://nathanstaines.com
+Description: An HTML5 version of <a href="http://elliotjaystocks.com/starkers/">Starkers</a> by <a href="http://elliotjaystocks.com/">Elliot Jay Stocks</a> which is based on Twenty Ten.
+Version: 3.2
+Author: Nathan Staines
+Author URI: http://nathanstaines.com
+Tags: starkers, html5, naked, clean, basic
+*/
+
+body {
+    _padding-top: 20px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+
+  background-image: url(images/background.jpg);
+   -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+  _font-family: 'Pacifico', cursive;
+  
+  color:#fff;
+
+}

@@ -1,0 +1,61 @@
+/*!
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+@import url(http://fonts.googleapis.com/css?family=Pacifico);
+
+
+.portfolio-item {
+    margin-bottom: 25px;
+}
+
+footer {
+    margin: 50px 0;
+}
+#container {
+	background-image: url('../images/bg-1.png');
+	    box-shadow: 1px 1px 15px rgba(0,0,0,0.3);
+}
+#navigation {
+  _background-color:#db545b;
+}
+
+#upper-navigation>ul>li {
+  list-style: none;
+  float:left;
+  margin-right: 50px;
+  font-size: 24px;
+  font-family: 'Pacifico', cursive;
+}
+#upper-navigation>ul>li>a {
+  color: #b03266;
+  padding: 10px;
+}
+#upper-navigation>ul>li>a:hover {
+  background-color:#db545b;
+  text-decoration: none;
+  color:#fff;
+}
+#page-header{
+  font-family: 'Pacifico', cursive;
+      border-bottom: 20px solid #db545b;
+      margin-top:0;
+}
+#hair-style,#services {
+  font-family: 'Pacifico', cursive;
+  background-color:#db545b;
+  color: #fff;
+  padding: 10px;
+      border-bottom: none;
+  }
+
+  #logo {
+    padding-top: 30px;
+  }
+
+
+
+
+#social-red {
+  color:#db545b ;
+}
